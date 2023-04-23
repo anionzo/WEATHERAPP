@@ -1,7 +1,7 @@
 # I study and follow
 https://youtu.be/iILFBGm_I9M
-
-# WEATHERAPP
+ 
+# WEATHERAPP  ℃
 # API
 Use openweathermap.org website to get API
 </br>
