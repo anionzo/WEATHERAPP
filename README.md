@@ -12,3 +12,4 @@ https://fontawesome.com/
 <script src="https://kit.fontawesome.com/ba9bc6bfc7.js" crossorigin="anonymous"></script>
 
 #Search
+![image](https://github.com/anionzo/WEATHERAPP/assets/86876887/5eabded2-83ed-4205-93a7-e6506e043054)
